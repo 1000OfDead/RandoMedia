@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Media</string>
+    <string name="show_random">Показать случайное медиа</string>
+    <string name="grant">Разрешить</string>
+    <string name="permission_rationale">Для показа случайных фото и видео приложению нужен доступ к медиафайлам на устройстве.</string>
+    <string name="empty_gallery">В галерее нет медиафайлов</string>
+    <string name="press_button">Нажмите кнопку, чтобы показать случайное медиа</string>
+    <string name="file_error">Не удалось открыть файл</string>
+</resources>
